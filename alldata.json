@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "1",
+    "name": "kedarnath",
+    "image": [
+      "http//:nhvuyfgku",
+      "http//:nhvuyfgku",
+      "http//:nhvuyfgku",
+      "http//:nhvuyfgku"
+    ],
+    "stars": 4.5,
+    "location": "uttarakashi",
+    "about": "lorem ipsum dolor sit amet aetm adnsdkf csmbasfasc ckvjhakj zmn bx juy",
+    "mytholgy":"lorem ipsum dolor sit amet aetm adnsdkf csmbasfasc ckvjhakj zmn bx juy",
+    "lat":28.345,
+    "lng":78.098765
+  }
+]

@@ -1,0 +1,136 @@
+{
+  "chardham": [
+    {
+      "_id": "1",
+      "name": "kedarnath",
+      "image": "http//:nhvuyfgku",
+      "stars": 4.5,
+      "location": "uttarakashi",
+      "lat":28.345,
+      "lng":78.098765
+    },
+    {
+      "_id": "2",
+      "name": "badrinath",
+      "image": "http//:nhvuyfgku",
+      "stars": 4.6,
+      "location": "chamoli"
+    },
+    {
+      "_id": "3",
+      "name": "gangotri",
+      "image": "http//:nhvuyfgku",
+      "stars": 4.3,
+      "location": "uttarakashi"
+    },
+    {
+      "_id": "4",
+      "name": "yamunotri",
+      "image": "http//:nhvuyfgku",
+      "stars": 4.3,
+      "location": "uttarakashi"
+    }
+  ],
+  "topDestination": [
+    {
+      "_id": "5",
+      "name": "haridwar",
+      "image": "http//:nhvuyfgku",
+      "stars": 4.3,
+      "location": "uttarakhand",
+      "about": "lorem ipsum dolor sit"
+    },
+    {
+      "_id": "6",
+      "name": "rishikesh",
+      "image": "http//:nhvuyfgku",
+      "stars": 4.3,
+      "location": "uttarakhand",
+      "about": "lorem ipsum dolor sit"
+    },
+    {
+      "_id": "7",
+      "name": "almora",
+      "image": "http//:nhvuyfgku",
+      "stars": 4.3,
+      "location": "uttarakhand",
+      "about": "lorem ipsum dolor sit"
+    },
+    {
+      "_id": "8",
+      "name": "nainital",
+      "image": "http//:nhvuyfgku",
+      "stars": 4.3,
+      "location": "uttarakhand",
+      "about": "lorem ipsum dolor sit"
+    }
+  ],
+  "events": [
+    {
+      "_id": "9",
+      "name": "yoga event",
+      "image": "http//:nhvuyfgku",
+      "stars": 4.3,
+      "location": "uttarakhand",
+      "about": "lorem ipsum dolor sit"
+    },
+    {
+      "_id": "10",
+      "name": "rafting",
+      "image": "http//:nhvuyfgku",
+      "stars": 4.3,
+      "location": "uttarakhand",
+      "about": "lorem ipsum dolor sit"
+    },
+    {
+      "_id": "11",
+      "name": "folk dance",
+      "image": "http//:nhvuyfgku",
+      "stars": 4.3,
+      "location": "uttarakhand",
+      "about": "lorem ipsum dolor sit"
+    },
+    {
+      "_id": "12",
+      "name": "kumbh",
+      "image": "http//:nhvuyfgku",
+      "stars": 4.3,
+      "location": "uttarakhand",
+      "about": "lorem ipsum dolor sit"
+    }
+  ],
+  "explore": [
+    {
+      "_id": "13",
+      "name": "clothes",
+      "image": "http//:nhvuyfgku",
+      "stars": 4.3,
+      "location": "uttarakhand",
+      "about": "lorem ipsum dolor sit"
+    },
+    {
+      "_id": "14",
+      "name": "sweets",
+      "image": "http//:nhvuyfgku",
+      "stars": 4.3,
+      "location": "uttarakhand",
+      "about": "lorem ipsum dolor sit"
+    },
+    {
+      "_id": "15",
+      "name": "dishes",
+      "image": "http//:nhvuyfgku",
+      "stars": 4.3,
+      "location": "uttarakhand",
+      "about": "lorem ipsum dolor sit"
+    },
+    {
+      "_id": "16",
+      "name": "dance",
+      "image": "http//:nhvuyfgku",
+      "stars": 4.3,
+      "location": "uttarakhand",
+      "about": "lorem ipsum dolor sit"
+    }
+  ]
+}
