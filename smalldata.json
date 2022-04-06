@@ -3,32 +3,38 @@
     {
       "_id": "1",
       "name": "kedarnath",
-      "image": "http//:nhvuyfgku",
-      "stars": 4.5,
-      "location": "uttarakashi",
-      "lat":28.345,
-      "lng":78.098765
+      "image": "https://static.toiimg.com/thumb/75601271.cms?resizemode=75&width=1200&height=900",
+      "stars": 5,
+      "location": "rudraprayag",
+      "lat":30.7352,
+      "lng":79.0669
     },
     {
       "_id": "2",
       "name": "badrinath",
-      "image": "http//:nhvuyfgku",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr0SrcELEpR1qNWgDEWz4FQObCpCYLKfkcIA&usqp=CAU",
       "stars": 4.6,
-      "location": "chamoli"
+      "location": "chamoli",
+      "lat":30.7448,
+      "lng":79.4913
     },
     {
       "_id": "3",
       "name": "gangotri",
-      "image": "http//:nhvuyfgku",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUNztwj5sn0rYzb5mT5UnOJXlZkNqYDUrA0A&usqp=CAU",
       "stars": 4.3,
-      "location": "uttarakashi"
+      "location": "uttarkashi",
+      "lat":30.9944,
+      "lng":78.9414
     },
     {
       "_id": "4",
       "name": "yamunotri",
-      "image": "http//:nhvuyfgku",
+      "image": "https://www.templepurohit.com/wp-content/uploads/2016/10/Yamunotri-Char-Dham-Info-History-Photos-Timings.jpg",
       "stars": 4.3,
-      "location": "uttarakashi"
+      "location": "uttarkashi",
+      "lat":31.0140,
+      "lng":78.4600
     }
   ],
   "topDestination": [
